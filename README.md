@@ -37,5 +37,5 @@
 - 🔭 Atualmente sou estagiário em desenvolvimento web full stack
 - 🌱 Estudando desenvolvimento de APIs REST em Spring boot e front em Vue.js
 - 💬 Contate-me: mikaelhjfb@gmail.com
-- 💼 Linkedin: <a href="https://www.linkedin.com/in/mikaelbarros/">@mikaelbarros</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/mikaelbarros/">@mikaelbarros</a>
 
