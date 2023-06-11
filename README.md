@@ -1,6 +1,8 @@
-<img height="180em" align="right" src="https://tenor.com/pt-BR/view/coding-gif-24297652.gif"/>
+
 
 # Bem vindo!!👋
+
+<img height="230em" align="right" src="https://tenor.com/pt-BR/view/coding-gif-24297652.gif"/>
 
 - 🔭 Atualmente sou estagiário em desenvolvimento web full stack
 - 💻 Desenvolvendo APIs REST em Spring boot e front em Vue.js
