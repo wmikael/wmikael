@@ -10,6 +10,7 @@
 - 💬 Contate-me: mikaelhjfb@gmail.com
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/mikaelbarros/">@mikaelbarros</a>
 
+### Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -23,7 +24,7 @@
   <img align="center" alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
-##
+### Github Status:
 
 <picture>
 <source
