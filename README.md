@@ -24,28 +24,32 @@
   <img align="center" alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
-### Github Status:
 
-<picture>
-<source
-  align=center
-  height="180em"
-  srcset="https://github-readme-stats.vercel.app/api?username=wmikael&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=wmikael&show_icons=true" />
-</picture>
 
-<picture>
-<source
-  align=center
-  height="180em"
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wmikael&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=wmikael&show_icons=true" />
-</picture>
-   
+<div  align="center">
+  
+  ### Github Status:
+  
+  <picture>
+    <source
+      align=center
+      height="180em"
+      srcset="https://github-readme-stats.vercel.app/api?username=wmikael&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=wmikael&show_icons=true" />
+  </picture>
+
+  <picture>
+    <source
+      align=center
+      height="180em"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wmikael&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=wmikael&show_icons=true" />
+  </picture>
+</div>
    
 
 
