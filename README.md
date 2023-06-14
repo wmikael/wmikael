@@ -25,8 +25,6 @@
 </div>
 
 
-
-<div  align="center">
   
   ### Github Status:
   
@@ -49,7 +47,7 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=wmikael&show_icons=true" />
   </picture>
-</div>
+
    
 
 
