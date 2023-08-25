@@ -5,8 +5,8 @@
 <img height="230em" align="right" src="https://tenor.com/pt-BR/view/coding-gif-24297652.gif"/>
 
 - 🔭 Atualmente sou estagiário em desenvolvimento web full stack
-- 💻 Desenvolvendo APIs REST em Spring boot e front em Vue.js
-- 🌱 Estudando desenvolvimento mobile com react native
+- 💻 Desenvolvendo APIs REST em Java com Spring boot e front em Vue.js
+- 🌱 Estudando boas práticas de programação com SOLID, Clean Code e Design Patterns.
 - 💬 Contate-me: mikaelhjfb@gmail.com
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/mikaelbarros/">@mikaelbarros</a>
 
