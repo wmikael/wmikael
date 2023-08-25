@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente sou estagiário em desenvolvimento web full stack
 - 💻 Desenvolvendo APIs REST em Java com Spring boot e front em Vue.js
-- 🌱 Estudando boas práticas de programação com SOLID, Clean Code e Design Patterns.
+- 🌱 Estudando boas práticas de programação com SOLID e Clean Code.
 - 💬 Contate-me: mikaelhjfb@gmail.com
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/mikaelbarros/">@mikaelbarros</a>
 
