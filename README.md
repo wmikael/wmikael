@@ -83,7 +83,7 @@ Technologies:</h2>
 
 ##
 
-### Github Status
+<h2 align="center">Github Stats:</h2>
 
 <div align="center" >
 
