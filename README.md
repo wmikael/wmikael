@@ -5,7 +5,7 @@
 <img height="260em" align="right" src="https://tenor.com/pt-BR/view/coding-gif-24297652.gif"/>
 
 - 👨 My name is Mikael Barros and I'm a Computer Science student.
-- 💻 I'm a full stack web developer. I develop REST APIs in Java with Spring boot, as well as create the frontend with Vue.js or React, HTML, CSS and Typescript. I also use component libraries for Vue, like naive.ui. I use git for version control as well as gitlab and github for sharing, always using conventional commits as well as git flow.
+- 💻 I'm a full stack web developer. I develop REST APIs in Java with Spring boot, as well as create the frontend with Vue.js or React, HTML, CSS and Typescript. I also use component libraries for Vue, like naive.ui. I use git for version control as well as gitlab and github for sharing always using conventional commits as well as git flow and agile methodologies like scrum and kanban.
 - 🌱 Studying:
   - Good programming practices following the principles of SOLID and Clean Code.
   - Object Oriented Fundamentals.
@@ -22,9 +22,6 @@
 <a href="https://www.linkedin.com/in/mikaelbarros/" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>  
-<a href="https://www.instagram.com/wmikael" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-</a>
 <a href="mailto:mikaelhjfb@gmail.com" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
