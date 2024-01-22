@@ -9,9 +9,8 @@
 - 🌱 Studying:
   - Good programming practices following the principles of SOLID and Clean Code.
   - Object Oriented Fundamentals.
-  - Design Patterns.
   - Fundamentals of Java.
-  - Angular.
+  - Vue.js 3 Composition API
 - 🔭 Looking for an opportunity in web development.
 
 <h3 text align="center"><img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40">
