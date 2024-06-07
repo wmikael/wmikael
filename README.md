@@ -4,14 +4,27 @@
 
 <img height="260em" align="right" src="https://tenor.com/pt-BR/view/coding-gif-24297652.gif"/>
 
-- 👨 My name is Mikael Barros and I'm a Computer Science student.
-- 💻 I'm a full stack web developer. I develop REST APIs in Java with Spring boot, as well as create the frontend with Vue.js or React, HTML, CSS and Typescript. I also use component libraries for Vue, like naive.ui. I use git for version control as well as gitlab and github for sharing always using conventional commits as well as git flow and agile methodologies like scrum and kanban.
-- 🌱 Studying:
-  - Good programming practices following the principles of SOLID and Clean Code.
-  - Object Oriented Fundamentals.
-  - Fundamentals of Java.
-  - Vue.js 3 Composition API
-- 🔭 Looking for an opportunity in web development.
+👋 Hi, I'm Mikael Barros
+
+🎓 Computer Science student
+
+💻 Web Developer specializing in:
+
+- REST APIs with Java and Spring Boot, Postgresql
+- Frontend development with Vue.js, React, HTML, CSS, and TypeScript
+- Utilizing component libraries like Naive UI for Vue
+- Docker
+- Version control with Git, GitLab, and GitHub
+- Following conventional commits, Git flow, and agile methodologies (Scrum and Kanban)
+
+🌱 Currently Studying:
+
+- Good programming practices (SOLID principles, Clean Code)
+- Object-oriented fundamentals
+- Java fundamentals
+- Spring
+- Microservices
+- Design Patterns
 
 <h3 text align="center"><img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40">
 <b> Connect with Me !! 🤝 ️</b>
